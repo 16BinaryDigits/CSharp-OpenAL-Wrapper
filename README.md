@@ -2,7 +2,7 @@
 A simple C# wrapper for OpenAL Specification version (1.0-1.1).
 
 To use simply include the class file to your project and make sure to point the string constant (libraryPath) 
-inside that class to the right location of the openal DLL.
+inside that class to the right location of the OpenAL DLL.
 
 For Windows users this will be (WindowsDrive):\Windows\System32\OpenAL32.dll, 
 Note that you can also copy the dll to your project directory.
