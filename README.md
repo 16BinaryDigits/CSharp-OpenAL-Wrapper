@@ -1,5 +1,5 @@
 # CSharp "C#" OpenAL Wrapper:
-A simple C# wrapper for OpenAL Specification version (1.0-1.1).
+A simple C# wrapper for OpenAL Specification version (1.1).
 
 To use simply include the class file to your project and make sure to point the string constant (libraryPath) 
 inside that class to the right location of the OpenAL DLL.
